@@ -6,7 +6,9 @@ This project implements an **AMBA AHB-Lite** system consisting of:
 - An **AHB Decoder**
 - **Two Slaves** (with different coding styles and memory sizes)
 
-![Our Implementation]c:\Users\rutup\Downloads\ChatGPT Image Feb 13, 2026, 04_25_10 AM.png
+![Our Implementation]<img width="1536" height="1024" alt="ChatGPT Image Feb 13, 2026, 04_25_10 AM" src="https://github.com/user-attachments/assets/3523002c-f68c-4aef-98b0-eba369358d80" />
+
+
 
 The goal is to:
 1. Understand and implement **AHB-Lite protocol fundamentals**
