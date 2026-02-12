@@ -55,7 +55,9 @@ In this project, we compare:
 
 2. **Our Implementation**  
 
-   ![Our Implementation](https://github.com/MohamedHussein27/AMBA_AHB_Lite_with_two_slaves/blob/main/Strucutre%20%26%20Testing/AHB_Lite_Archeticture.png)
+   ![Our Implementation]<img width="1536" height="1024" alt="ChatGPT Image Feb 13, 2026, 04_25_10 AM" src="https://github.com/user-attachments/assets/ce4f15ba-9dc0-4f16-a82a-935c28705702" />
+
+
 
 ### **Key Points in Our Implementation**
 - **Processor Assumption**  
